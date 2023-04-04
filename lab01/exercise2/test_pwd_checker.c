@@ -4,7 +4,6 @@
 
 int main() {
     printf("Running tests...\n\n");
-
     const char *test1_first = "Abraham";
     const char *test1_last = "Garcia";
     const char *test1_pwd = "qrtv?,mp!ltrA0b13rab4ham";
